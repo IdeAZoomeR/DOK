@@ -1,2 +1,3 @@
 # DOK
-Random stuff go!
+ok
+
